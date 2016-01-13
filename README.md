@@ -1,3 +1,5 @@
+![local-npm logo](logo.svg)
+
 local-npm [![Build Status](https://travis-ci.org/nolanlawson/local-npm.svg)](https://travis-ci.org/nolanlawson/local-npm) [![Coverage Status](https://coveralls.io/repos/nolanlawson/local-npm/badge.svg?branch=master&service=github)](https://coveralls.io/github/nolanlawson/local-npm?branch=master)
 ==========
 
